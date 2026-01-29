@@ -1,3 +1,4 @@
+// Added a Library class to support handling of multiple scriptures and picking a random scripture from the given list.
 using System;
 
 class Program
