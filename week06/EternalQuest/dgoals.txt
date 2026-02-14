@@ -1,0 +1,4 @@
+680
+SimpleGoal:a,b,50,True
+EternalGoal:c,d,60
+ChecklistGoal:70,a,70,300,3,3
